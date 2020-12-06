@@ -3,6 +3,7 @@
 This whole repository/account are going to be a glorious mess of beginner code.
 So, that's fun.
 
+6-Dec-2020: html cheat sheet transferred into its own repository
 4-Dec-2020: html project added with HTML table and placeholder CSS table -- HTML and CSS
 
 1-Dec-2020: lodash project added -- Javascript
